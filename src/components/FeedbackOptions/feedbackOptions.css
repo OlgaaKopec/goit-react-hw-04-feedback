@@ -1,0 +1,14 @@
+.feedbackStyles {
+display: flex;
+flex-direction: row;
+list-style: none;
+gap: 10px;
+}
+
+.button {
+    border: none;
+    border-radius: 20px;
+    padding: 15px;
+    width: 70px;
+    font-weight: 700;
+}
